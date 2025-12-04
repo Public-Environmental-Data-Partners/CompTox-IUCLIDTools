@@ -1,3 +1,5 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
+
 # EZ Mapper
 
 EZ Mapper is a proof-of-concept, work-in-progress application built with Streamlit that allows users to easily map and manipulate data columns into OECD Harmonized Template data models. It provides functionalities to merge and split columns, preview data, and download modified data and column mappings. It also allows for the creation and download of structurally accurate i6z files for the modified data.
